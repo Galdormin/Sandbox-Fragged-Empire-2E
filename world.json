@@ -10,12 +10,14 @@
   "styles": [],
   "packs": [],
   "languages": [],
-  "authors": [],
+  "authors": [
+	"Galdormin"
+  ],
   "keywords": [],
   "socket": false,
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Galdormin/FoundryVTT-Fragged-Empire-2E",
+  "manifest": "https://raw.githubusercontent.com/Galdormin/FoundryVTT-Fragged-Empire-2E/master/world.json",
+  "download": "https://github.com/Galdormin/FoundryVTT-Fragged-Empire-2E/archive/master.zip",
   "license": "",
   "readme": "",
   "bugs": "",
