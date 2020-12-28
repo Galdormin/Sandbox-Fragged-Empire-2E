@@ -10,3 +10,7 @@
 {"name":"Main","type":"Item","sort":300000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"c0LzLKqvkcycXZ7k"}
 {"name":"_TAB","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"muvt8k6fbIC0wRTq"}
 {"name":"_PROPERTY","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"ntK0qCmwyO2gSUlg"}
+{"name":"Skills","type":"Item","sort":700000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"CmBERQVkt7Kh7jyZ"}
+{"name":"Strong Hit","type":"Item","sort":800000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"mDKmtg0uL1CjsIv0"}
+{"name":"Strong Hit","type":"Item","sort":900000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"HcoQeCrb5mq62Rbw"}
+{"name":"COMPENDIUM","type":"Item","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"8td03dveaKt5bh1A"}
