@@ -1,8 +1,12 @@
-{"name":"Group Properties","type":"Item","sort":null,"flags":{},"parent":"ETGyGgXJVpdDfC6N","sorting":"a","color":"","_id":"3zAR1aThw2gkCAVr"}
-{"name":"Groups","type":"Item","sort":null,"flags":{},"parent":"ETGyGgXJVpdDfC6N","sorting":"a","color":"","_id":"5qhCIpXS617MvEso"}
+{"_id":"3zAR1aThw2gkCAVr","name":"Group Properties","type":"Item","sort":200000,"flags":{},"parent":"ETGyGgXJVpdDfC6N","sorting":"a","color":""}
+{"_id":"5qhCIpXS617MvEso","name":"Groups","type":"Item","sort":100000,"flags":{},"parent":"ETGyGgXJVpdDfC6N","sorting":"a","color":""}
 {"name":"_CONFIG","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"78W6ZMCbZ67hmx68"}
 {"name":"_CONFIG","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"ETGyGgXJVpdDfC6N"}
+{"name":"Attributes","type":"Item","sort":400000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"RNRjmqti4TJpBQe1"}
+{"name":"Skills","type":"Item","sort":600000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"Rtb7l1bJD83xKmio"}
 {"name":"_PANEL","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"VwjsF6upVIm1qb3O"}
+{"name":"Informations","type":"Item","sort":500000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"WpgkMZlA819J4PD4"}
 {"name":"_TEMPLATE","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Xd9LrdykO4Dc83Jf"}
+{"name":"Main","type":"Item","sort":300000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"c0LzLKqvkcycXZ7k"}
 {"name":"_TAB","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"muvt8k6fbIC0wRTq"}
 {"name":"_PROPERTY","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"ntK0qCmwyO2gSUlg"}

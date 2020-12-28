@@ -11,7 +11,7 @@
   "packs": [],
   "languages": [],
   "authors": [
-	"Galdormin"
+    "Galdormin"
   ],
   "keywords": [],
   "socket": false,
@@ -22,9 +22,11 @@
   "readme": "",
   "bugs": "",
   "changelog": "",
-  "background": "",
+  "background": "worlds/fragged-empire-2e/resources/background.jpg",
   "system": "sandbox",
   "coreVersion": "0.7.9",
-  "systemVersion": "0.6.3",
-  "nextSession": null
+  "systemVersion": "0.6.5",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 0,
+  "unavailable": false
 }
