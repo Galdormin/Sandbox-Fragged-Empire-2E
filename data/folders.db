@@ -1,27 +1,66 @@
-{"name":"Status","type":"Item","sort":1300000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"11JrXdcWLADXSjc9"}
 {"_id":"3zAR1aThw2gkCAVr","name":"Group Properties","type":"Item","sort":200000,"flags":{},"parent":"ETGyGgXJVpdDfC6N","sorting":"a","color":""}
 {"_id":"5qhCIpXS617MvEso","name":"Groups","type":"Item","sort":100000,"flags":{},"parent":"ETGyGgXJVpdDfC6N","sorting":"a","color":""}
 {"name":"_CONFIG","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"78W6ZMCbZ67hmx68"}
-{"name":"COMPENDIUM","type":"Item","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"8td03dveaKt5bh1A"}
+{"_id":"8td03dveaKt5bh1A","name":"COMPENDIUM","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"Skills","type":"Item","sort":700000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"CmBERQVkt7Kh7jyZ"}
-{"name":"_CONFIG","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"ETGyGgXJVpdDfC6N"}
+{"_id":"ETGyGgXJVpdDfC6N","name":"_CONFIG","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"name":"Weapon","type":"Item","sort":1100000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"GBkOHt4dPUOR8z5N"}
 {"name":"Strong Hit","type":"Item","sort":900000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"HcoQeCrb5mq62Rbw"}
+{"name":"Combat","type":"Item","sort":1400000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"NoKuYXcTsuZrkzOa"}
 {"name":"Attributes","type":"Item","sort":400000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"RNRjmqti4TJpBQe1"}
 {"name":"Skills","type":"Item","sort":600000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"Rtb7l1bJD83xKmio"}
 {"name":"_PANEL","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"VwjsF6upVIm1qb3O"}
 {"name":"Informations","type":"Item","sort":500000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"WpgkMZlA819J4PD4"}
-{"name":"_TEMPLATE","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Xd9LrdykO4Dc83Jf"}
+{"_id":"Xd9LrdykO4Dc83Jf","name":"_TEMPLATE","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Strong Hit","type":"Item","sort":1500000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"YVsbvXduEwhvWxLw"}
 {"name":"Main","type":"Item","sort":300000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"c0LzLKqvkcycXZ7k"}
 {"name":"Strong Hit","type":"Item","sort":800000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"mDKmtg0uL1CjsIv0"}
 {"name":"_TAB","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"muvt8k6fbIC0wRTq"}
 {"name":"_PROPERTY","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"ntK0qCmwyO2gSUlg"}
 {"name":"Combat","type":"Item","sort":1200000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"zxAarDvICvmqB5As"}
-{"name":"Combat","type":"Item","sort":1400000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"NoKuYXcTsuZrkzOa"}
-{"$$deleted":true,"_id":"11JrXdcWLADXSjc9"}
-{"_id":"ETGyGgXJVpdDfC6N","name":"_CONFIG","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"Xd9LrdykO4Dc83Jf","name":"_TEMPLATE","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"8td03dveaKt5bh1A","name":"COMPENDIUM","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"name":"Strong Hit","type":"Item","sort":1500000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"YVsbvXduEwhvWxLw"}
-{"name":"Weapon","type":"Item","sort":1600000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"hra6KzYG04hglObz"}
-{"$$deleted":true,"_id":"hra6KzYG04hglObz"}
+{"name":"Companion","type":"Item","sort":1600000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"0mya0xaj4oXauREx"}
+{"name":"Item","type":"Item","sort":1700000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"Ey4WjwjdZ4EIHwe0"}
+{"name":"Inventory","type":"Item","sort":1800000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"y0POA420O81IuQJ4"}
+{"name":"Inventory","type":"Item","sort":1900000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"HOtYDw9MSSDKh08g"}
+{"name":"Companion","type":"Item","sort":2000000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"D0vVO7guBBpDDZns"}
+{"_id":"YVsbvXduEwhvWxLw","name":"Strong Hit","type":"Item","sort":100000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":""}
+{"_id":"D0vVO7guBBpDDZns","name":"Companion","type":"Item","sort":200000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":""}
+{"name":"Outfit","type":"Item","sort":2000000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"oBVJbCc2WZ03hGIS"}
+{"_id":"HcoQeCrb5mq62Rbw","name":"Strong Hit","type":"Item","sort":100000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":""}
+{"_id":"0mya0xaj4oXauREx","name":"Companion","type":"Item","sort":200000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":""}
+{"_id":"Ey4WjwjdZ4EIHwe0","name":"Item","type":"Item","sort":300000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":""}
+{"_id":"GBkOHt4dPUOR8z5N","name":"Weapon","type":"Item","sort":400000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":""}
+{"_id":"oBVJbCc2WZ03hGIS","name":"Outfit","type":"Item","sort":500000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":""}
+{"name":"PC","type":"Item","sort":2000000,"flags":{},"parent":"5qhCIpXS617MvEso","sorting":"a","color":"","_id":"Gb5knmx0vMAdtODz"}
+{"name":"Trait","type":"Item","sort":2100000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"m3HlW4jh78FDGYaP"}
+{"name":"Trait","type":"Item","sort":2200000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"AnhwCH2Jwdi8CCaK"}
+{"name":"Trait","type":"Item","sort":2300000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"qnxxqWsbhveOawyI"}
+{"name":"Weapon","type":"Item","sort":2400000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"N2PcMtQsvAEu1msT"}
+{"_id":"D0vVO7guBBpDDZns","name":"Outfit","type":"Item","sort":200000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":""}
+{"name":"Perk/Complication/Specialization","type":"Item","sort":2500000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"R3xqKcG9eEsDRiG7"}
+{"name":"Perks","type":"Item","sort":2600000,"flags":{},"parent":"R3xqKcG9eEsDRiG7","sorting":"a","color":"","_id":"UIGeBE9bWBJmABSI"}
+{"name":"Complications","type":"Item","sort":2700000,"flags":{},"parent":"R3xqKcG9eEsDRiG7","sorting":"a","color":"","_id":"v62oUUNP3HcBx7m5"}
+{"name":"Specializations","type":"Item","sort":2800000,"flags":{},"parent":"R3xqKcG9eEsDRiG7","sorting":"a","color":"","_id":"GdqosMx6zerQh5pj"}
+{"name":"Trait","type":"Item","sort":2900000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"rAI9C0kaMCJnzBi3"}
+{"name":"Level","type":"Item","sort":3000000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"TORhoOXGSs31oQHU"}
+{"name":"Resources","type":"Item","sort":3100000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"YKVLUb6saUrdmMnS"}
+{"name":"Influence","type":"Item","sort":3200000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"Y4Y8OZooA7MB0Ukj"}
+{"_id":"rAI9C0kaMCJnzBi3","name":"Trait","type":"Item","sort":2900000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"m","color":""}
+{"name":"Strength","type":"Item","sort":3300000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"GmRMm4ouDcSljsgA"}
+{"name":"Reflexes","type":"Item","sort":3400000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"Q0SSGiMBqOmkEhAK"}
+{"name":"Mobility","type":"Item","sort":3500000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"VS48KtJk6OSIewqc"}
+{"name":"Focus","type":"Item","sort":3600000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"shvEX29roV0gVbhv"}
+{"name":"Grit","type":"Item","sort":3700000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"7dqzR3ucwkV0UIgF"}
+{"name":"Small Arms","type":"Item","sort":3800000,"flags":{},"parent":"N2PcMtQsvAEu1msT","sorting":"a","color":"","_id":"bbyv72KIby9ulB45"}
+{"name":"Heavy Arms","type":"Item","sort":3900000,"flags":{},"parent":"N2PcMtQsvAEu1msT","sorting":"a","color":"","_id":"2oFeHEvzmMgGIGbs"}
+{"name":"Tactical","type":"Item","sort":4000000,"flags":{},"parent":"N2PcMtQsvAEu1msT","sorting":"a","color":"","_id":"R1If6KFg0wkmI90o"}
+{"name":"Exotic","type":"Item","sort":4100000,"flags":{},"parent":"N2PcMtQsvAEu1msT","sorting":"a","color":"","_id":"tcuIee3ojXbPUxdj"}
+{"_id":"N2PcMtQsvAEu1msT","name":"Weapon","type":"Item","sort":2400000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"m","color":""}
+{"name":"Attributes","type":"Item","sort":4200000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":"","_id":"xqGUIdAMMcEacOR2"}
+{"_id":"GmRMm4ouDcSljsgA","name":"Strength","type":"Item","sort":3950000,"flags":{},"parent":"rAI9C0kaMCJnzBi3","sorting":"a","color":""}
+{"$$deleted":true,"_id":"xqGUIdAMMcEacOR2"}
+{"name":"Species","type":"Item","sort":4200000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"1avGVl4W43l6P9e4"}
+{"name":"Utility","type":"Item","sort":4300000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"ztSsvgtrlXI9Rj0u"}
+{"name":"Misc Item","type":"Item","sort":4400000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":"","_id":"aoLsYWWuh2YQWKIZ"}
+{"_id":"8td03dveaKt5bh1A","name":"COMPENDIUM","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#c44040"}
+{"name":"Pre-Made PCs","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Naj9pvMojRwIbbCN"}
