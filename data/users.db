@@ -1,1 +1,10 @@
 {"_id":"8HuI5CyvrFqKeUcH","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#28c4cc","hotbar":{}}
+{"name":"Player 2","flags":{},"role":1,"permissions":{},"color":"#cc6728","hotbar":{},"_id":"cQx996KqErdjHJtH"}
+{"_id":"cQx996KqErdjHJtH","name":"Tatiania","flags":{},"role":1,"permissions":{},"password":"","color":"#cc6728","hotbar":{}}
+{"name":"Player 3","flags":{},"role":1,"permissions":{},"color":"#28c7cc","hotbar":{},"_id":"w40t0rRXzdSZxECw"}
+{"name":"Player 4","flags":{},"role":1,"permissions":{},"color":"#2893cc","hotbar":{},"_id":"DfYrbcTIx3PyIfLF"}
+{"name":"Player 5","flags":{},"role":1,"permissions":{},"color":"#284ccc","hotbar":{},"_id":"M2t5WC17VcHEcZwn"}
+{"_id":"cQx996KqErdjHJtH","name":"Tatiana Goldsmith","flags":{},"role":1,"permissions":{},"password":"","color":"#cc6728","hotbar":{}}
+{"_id":"w40t0rRXzdSZxECw","name":"Jacob Vibe","flags":{},"role":1,"permissions":{},"password":"","color":"#28c7cc","hotbar":{}}
+{"_id":"DfYrbcTIx3PyIfLF","name":"Gralish-nak","flags":{},"role":1,"permissions":{},"password":"","color":"#2893cc","hotbar":{}}
+{"_id":"M2t5WC17VcHEcZwn","name":"Felix Domina","flags":{},"role":1,"permissions":{},"password":"","color":"#284ccc","hotbar":{}}
