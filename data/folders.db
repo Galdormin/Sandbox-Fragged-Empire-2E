@@ -38,3 +38,12 @@
 {"name":"Complications","type":"Item","sort":2700000,"flags":{},"parent":"R3xqKcG9eEsDRiG7","sorting":"a","color":"","_id":"v62oUUNP3HcBx7m5"}
 {"name":"Inventory","type":"Item","sort":1800000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"y0POA420O81IuQJ4"}
 {"name":"Combat","type":"Item","sort":1200000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"zxAarDvICvmqB5As"}
+{"name":"HENCHMEN","type":"Item","sort":4600000,"flags":{},"parent":"5qhCIpXS617MvEso","sorting":"a","color":"","_id":"wRTOp6NybRz0NGb0"}
+{"$$deleted":true,"_id":"wRTOp6NybRz0NGb0"}
+{"name":"PC","type":"Item","sort":4600000,"flags":{},"parent":"muvt8k6fbIC0wRTq","sorting":"a","color":"","_id":"pTiVxhEuooU6pio7"}
+{"name":"HENCHMEN","type":"Item","sort":4700000,"flags":{},"parent":"muvt8k6fbIC0wRTq","sorting":"a","color":"","_id":"5ORFmzXRxJwo3CJG"}
+{"name":"Henchmen","type":"Item","sort":4800000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"7h4CKzvTMumCOa0W"}
+{"name":"Henchmen","type":"Item","sort":4900000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"RvcXaCLNWE6cLxVc"}
+{"name":"Henchmen","type":"Item","sort":5000000,"flags":{},"parent":"5qhCIpXS617MvEso","sorting":"a","color":"","_id":"txpQ1YU67mHFK6AT"}
+{"_id":"txpQ1YU67mHFK6AT","name":"NPC","type":"Item","sort":5000000,"flags":{},"parent":"5qhCIpXS617MvEso","sorting":"a","color":""}
+{"_id":"5ORFmzXRxJwo3CJG","name":"NPC","type":"Item","sort":4700000,"flags":{},"parent":"muvt8k6fbIC0wRTq","sorting":"a","color":""}
