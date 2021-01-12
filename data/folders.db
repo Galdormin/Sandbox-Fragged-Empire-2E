@@ -31,6 +31,8 @@
 {"_id":"YVsbvXduEwhvWxLw","name":"Strong Hit","type":"Item","sort":100000,"flags":{},"parent":"8td03dveaKt5bh1A","sorting":"a","color":""}
 {"_id":"aoLsYWWuh2YQWKIZ","name":"Misc Item","type":"Item","sort":200000,"flags":{},"parent":"U5Cs4bPr6IQ8fiVd","sorting":"a","color":""}
 {"name":"Main","type":"Item","sort":300000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"c0LzLKqvkcycXZ7k"}
+{"name":"Nemesis","type":"Item","sort":5200000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"gY1vB6gQQVjY2XKu"}
+{"name":"Nemesis","type":"Item","sort":5100000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"jSPaCHX4MZC0HMfb"}
 {"name":"Trait","type":"Item","sort":2100000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"m3HlW4jh78FDGYaP"}
 {"_id":"mDKmtg0uL1CjsIv0","name":"Strong Hit","type":"Item","sort":300000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":""}
 {"name":"_TAB","type":"Item","sort":null,"flags":{},"parent":"Xd9LrdykO4Dc83Jf","sorting":"a","color":"","_id":"muvt8k6fbIC0wRTq"}
@@ -43,5 +45,3 @@
 {"name":"Complications","type":"Item","sort":2700000,"flags":{},"parent":"R3xqKcG9eEsDRiG7","sorting":"a","color":"","_id":"v62oUUNP3HcBx7m5"}
 {"name":"Inventory","type":"Item","sort":1800000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"y0POA420O81IuQJ4"}
 {"name":"Combat","type":"Item","sort":1200000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"zxAarDvICvmqB5As"}
-{"name":"Nemesis","type":"Item","sort":5100000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"jSPaCHX4MZC0HMfb"}
-{"name":"Nemesis","type":"Item","sort":5200000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"gY1vB6gQQVjY2XKu"}
