@@ -45,3 +45,13 @@
 {"name":"Complications","type":"Item","sort":2700000,"flags":{},"parent":"R3xqKcG9eEsDRiG7","sorting":"a","color":"","_id":"v62oUUNP3HcBx7m5"}
 {"name":"Inventory","type":"Item","sort":1800000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"y0POA420O81IuQJ4"}
 {"name":"Combat","type":"Item","sort":1200000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"zxAarDvICvmqB5As"}
+{"name":"SPACECRAFT","type":"Item","sort":5300000,"flags":{},"parent":"5qhCIpXS617MvEso","sorting":"a","color":"","_id":"UWAZ4gqayPxVz2Id"}
+{"name":"Cargo","type":"Item","sort":5400000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"feIUmh7hhfJhBftu"}
+{"name":"SPACECRAFT","type":"Item","sort":5500000,"flags":{},"parent":"muvt8k6fbIC0wRTq","sorting":"a","color":"","_id":"RRjebvYf4uSPr4vP"}
+{"name":"Cargo","type":"Item","sort":5600000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"1GmCUwoacUF9QApN"}
+{"name":"Cargo","type":"Item","sort":5700000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"4nC9JBi2s1Rn5SHb"}
+{"name":"Ordnance","type":"Item","sort":5800000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"3a1sRsmyXi2bytzh"}
+{"name":"Main - Cargo","type":"Item","sort":5900000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":"","_id":"WK2KF3L0IoD9Grnz"}
+{"_id":"WK2KF3L0IoD9Grnz","name":"Main - Spacecraft","type":"Item","sort":5900000,"flags":{},"parent":"ntK0qCmwyO2gSUlg","sorting":"a","color":""}
+{"name":"Main - Spacecraft","type":"Item","sort":6000000,"flags":{},"parent":"VwjsF6upVIm1qb3O","sorting":"a","color":"","_id":"NxhfnzMK1jbbjP36"}
+{"name":"Weapon-spacecraft","type":"Item","sort":6100000,"flags":{},"parent":"3zAR1aThw2gkCAVr","sorting":"a","color":"","_id":"y9RIJw1Y9sVRaMYY"}
